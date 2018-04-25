@@ -46,3 +46,4 @@ There are several components that need your attention. All of these components c
 - [Events](https://facebook.github.io/react/docs/events.html)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/react-props-and-state-lab'>Props And State Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG React Props and State Lab</p>
